@@ -1,0 +1,23 @@
+
+#phrase-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.remaining-text{
+    font-size: 50px;
+    color: lightblue;
+    text-align: center;
+}
+.typed-text{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+.underline{
+    font-size: 50px;
+    color: lightblue;
+    text-align: center;
+    text-decoration: underline;
+
+}

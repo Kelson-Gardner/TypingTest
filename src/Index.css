@@ -1,0 +1,7 @@
+html{
+  font-family: monospace;
+}
+#keyboard-container {
+  display: flex;
+  justify-content: center;
+}
